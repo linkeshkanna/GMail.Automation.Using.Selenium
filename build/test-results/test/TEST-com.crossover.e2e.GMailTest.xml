@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crossover.e2e.GMailTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-08T07:08:17" hostname="LINKESH-PC" time="17.4">
+  <properties/>
+  <testcase name="testSendEmail" classname="com.crossover.e2e.GMailTest" time="17.4"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a) on port 49660
+Only local connections are allowed.
+]]></system-err>
+</testsuite>
